@@ -1,0 +1,6 @@
+[submodule "electron-client"]
+	path = electron-client
+	url = ./electron-client
+[submodule "backend"]
+	path = backend
+	url = ./backend
