@@ -1,6 +1,6 @@
 [submodule "electron-client"]
 	path = electron-client
-	url = ./electron-client
+	url = https://github.com/renanholler/TS-SocketClient
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/renanholler/TS-SocketServer
